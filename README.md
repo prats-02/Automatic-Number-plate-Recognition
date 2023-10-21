@@ -1,2 +1,2 @@
 # Automatic-Number-Plate-Recognition
-A python program to detect number plate of the vehicles using OpenCV and easyOCR
+This project develops an algorithm for automatic number plate recognition (ANPR) for vehicles using pyhton and easy OCR 
